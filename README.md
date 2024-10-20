@@ -1,5 +1,5 @@
 ## Hi there :D 👋
-I am part time student and a full time MERN stack developer currently working with Nextjs
+I am part time student and a full time MERN stack developer currently working with DevSoc
 
 <!--
 **sohamdasx/sohamdasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
