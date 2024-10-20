@@ -1,8 +1,12 @@
 ## Hi there :D 👋
 I am part time student and a full time MERN stack developer currently working with DevSoc.
 
+<br />
 Projects:
+<br />
+<br />
 Waves' 24 website - the cultural fest of BITS Goa: [Waves'24](https://github.com/Devsoc-BPGC/waves-24)
+<br />
 Campus Ambassdor website - CAs for the techincal fest: [Quark CA](https://github.com/Devsoc-BPGC/campus-ambassador)
 <!--
 **sohamdasx/sohamdasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
