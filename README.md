@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently building an E-Commerce website from scratch, from payment gateways and logistics to the entire MERN app.<br><br>Projects:<br><br>Waves' 24 website - the cultural fest of BITS Goa: <a href="https://github.com/Devsoc-BPGC/waves-24">Waves'24</a><br>Campus Ambassador website - CAs for the techincal fest: <a href="https://github.com/Devsoc-BPGC/campus-ambassador">Quark CA</a>
+Hi !
 
 
 ## 🌐 Socials:
